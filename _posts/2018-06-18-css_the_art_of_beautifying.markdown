@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CSS: the art of beautifying"
-date:       2018-06-19 02:54:56 +0000
+date:       2018-06-18 22:54:57 -0400
 permalink:  css_the_art_of_beautifying
 ---
 
@@ -10,7 +10,7 @@ If you ever found two websites of your interest with the exact same content, but
 Giving any website this attractive presentation is possible thanks to **Cascading Style Sheets** (CSS). 
 
 ![](httphttps://1.bp.blogspot.com/-31Xqk4lGz3c/WTUC7diWGoI/AAAAAAAAAL4/TYvbq7qNADUDirOcP_BFqP4kZYffx-BZgCEw/s1600/html-vs-css-difference-funny-min.png://)
-*Image source www.webinhindi.com
+
 
 In simple words, CSS is a file where we define how we want our website to look like, style wise (best practice is for this file to be different from where our HTML code is). Think of it like entering a house: you see the living room, kitchen, bathroom, bedrooms which compound the actual house, its content, this would be HTML. Now, when you pay close attention to the wall color, how the furniture is arranged, that beautiful paiting to your left or that lava lamp to your right, that would be CSS. Let's keep in mind that all this decorations have no use without the actual house, but we could still visit the house itself, without the paitings, or any of the stuff that makes it prettier. This means that CSS is to be used in HTML, not the other way around.
 
