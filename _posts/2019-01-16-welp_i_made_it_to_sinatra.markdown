@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Welp, I made it to Sinatra!"
-date:       2019-01-16 05:04:05 +0000
+date:       2019-01-16 00:04:06 -0500
 permalink:  welp_i_made_it_to_sinatra
 ---
 
