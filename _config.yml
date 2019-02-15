@@ -1,15 +1,14 @@
 # Site settings
-title: 
+author: Wendy Calderon
+title: Wendy's Notes
 header-img: img/home-bg.png
 email: wendycalderon@gmail.com
-copyright_name: wendisha
+copyright_name: Wendy Calderon
 description: > # this means to ignore newlines until "baseurl:"
-  
+  New career, new mentality, new oportunities...
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: wendisha
 github_username:  wendisha
-learn_profile: wendisha
-email_username: wendycalderon@gmail.com
 
 # Build settings
 markdown: kramdown
