@@ -5,7 +5,7 @@ date:       2019-03-05 19:55:13 -0500
 permalink:  hackittogether_2019_from_my_perspective
 ---
 
-Browsing through Learn Slack channels, I saw a fellow NY student post about an all-women Hackathon taking place in [Lander College For Women](https://lcw.touro.edu/) in the upcoming days, and I said to myself, *"Hey, why not?"*.  I proceeded to save my spot and joined the Flatiron group that had already done the same, and we virtually formed our team. 
+Browsing through Learn Slack channels, I saw a fellow NY student post about an all-women Hackathon taking place in [Lander College For Women](https://lcw.touro.edu/) in the upcoming days, and I said to myself, *"Hey, why not?"*.  I proceeded to save my spot and joined the Flatiron group that had already done the same, Aellon, Paula, Robin and Indy, and we formed our team!
 
 March 3rd came, and once we got to the Hackathon we learned that none of the ideas we had in mind to possibly work on could be implemented, since they did not fall into the categories listed for the event.
 
