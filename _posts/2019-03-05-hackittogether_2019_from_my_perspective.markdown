@@ -17,7 +17,7 @@ As the day went by, a very motivating and attitude-shifting speech was given by 
 
 Back to our project, we achieved a preliminary model to present to the judges by using Ruby on Rails to create the application, Nokogiri to scrape the [International Voluteer HQ](https://www.volunteerhq.org/volunteer-abroad-programs/) website for the volunteering programs, and Bootstrap for designing the pages.  
 
-<p align="center">![](https://i.imgur.com/WAAvunf.jpg)</p>
+![](https://i.imgur.com/WAAvunf.jpg)
 
 We presented our project surpassing a few technical difficulties.  Eventhough the main purpose for our participation was to learn and have fun, we definitely wanted to be able to create something innovative, useful and that could make a positive impact in the world.
 
