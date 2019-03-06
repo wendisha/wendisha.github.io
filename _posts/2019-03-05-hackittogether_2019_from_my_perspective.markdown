@@ -17,7 +17,7 @@ Back to our project, we achieved a preliminary model to present to the judges by
 
 ![](https://i.imgur.com/UpT1W5N.jpg)
 
-We were called first out of 22 teams with awesome ideas, and we were nervious!  We presented our project surpassing a few technical difficulties.  Eventhough the main purpose for our participation was to learn and have fun, we definitely wanted to be able to create something innovative, useful and that could make a positive impact in the world.
+We were called first out of 22 teams with awesome ideas, and we were nervous!  We presented our project surpassing a few technical difficulties.  Eventhough the main purpose for our participation was to learn and have fun, we definitely wanted to be able to create something innovative, useful and that could make a positive impact in the world.
 
 We were incredibly happy to learn the judges chose us as the JetBlue's Challenge winners, not only because of the awesome prize, but because they were able to see what we saw behind our idea, not just in its implementation.  We were happy to know that ideas to help those in need are winning ideas.
 
