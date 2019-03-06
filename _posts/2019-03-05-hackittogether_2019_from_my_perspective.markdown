@@ -9,8 +9,6 @@ Browsing through Learn Slack channels, I saw a fellow NY student post about an a
 
 March 3rd came, and once we got to the Hackathon we learned that none of the ideas we had in mind to possibly work on could be implemented, since they did not fall into the categories listed for the event.
 
-![](https://pbs.twimg.com/media/D0vSwGvX4AIzquq.jpg:small)
-
 Among the challenges presented, we decided to work on the one proposed by JetBlue, which required creating a product that demonstrates how it is the most caring airline in the world.  We took the word "caring" very literaly, and we wanted to present a prototype that showed JetBlue not only cared about its customers, but the entire world, which is why we decided to build an interface that allows users to be matched with available volunteering opportunities in their desired destinations, in exchange for TrueBlue points or ticket discounts. 
 
 As the day went by, a very motivating and attitude-shifting speech was given by the keynote speaker, Google's Senior Engineering Program Manager, [Katy Kasmai](http://katykasmai.com/).  Her talk revolved around "Building Moonshots to Solve Our Greatest Challenges", and was definitely one of my favorite parts of the entire day.
