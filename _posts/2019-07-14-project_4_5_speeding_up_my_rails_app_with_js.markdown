@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Project 4/5... Speeding up my Rails app with JS"
-date:       2019-07-15 02:52:17 +0000
+title:      "Project 4/5: Speeding up my Rails app with JS"
+date:       2019-07-14 22:52:18 -0400
 permalink:  project_4_5_speeding_up_my_rails_app_with_js
 ---
 
