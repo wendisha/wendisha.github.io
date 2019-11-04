@@ -6,7 +6,7 @@ permalink:  scratch_not_just_for_kids
 ---
 
 
-Scratch is a web-based free graphical programming language created by the Massachusetts Institute of Technology Media Lab (MIT Media Lab), geared primarily towards children, but don't let that fool you, it is challenging enough for adults as well.
+Scratch is a free web-based graphical programming language created by the Massachusetts Institute of Technology Media Lab (MIT Media Lab), geared primarily towards children, but don't let that fool you, it is challenging enough for adults as well.
 
 I was introduced to Scratch while seeking the CS50 Certification from Harvard University. In the first week (week 0), we are asked to build a game, interactive story or animation using this block-based visual programming language.
 
