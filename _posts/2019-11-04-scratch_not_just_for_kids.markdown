@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Scratch: Not just for kids!"
-date:       2019-11-04 13:21:57 +0000
+date:       2019-11-04 08:21:58 -0500
 permalink:  scratch_not_just_for_kids
 ---
 
