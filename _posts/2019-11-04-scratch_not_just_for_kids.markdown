@@ -26,7 +26,7 @@ Another cool feature we could add to our sprites, is sound! When you click on th
 * Motion: Here we can control how or where to our sprites move, by specifying the horizontal and vertical axis (x and y), instructing it to "look" to the mouse pointer, etc.
 * Looks: Just as it's name denotes, here we can edit a sprite's appearance. Also, we can make our sprite "say" or "think" something, by showing a dialog box to the user. This coding section is the one that allows us to control the visibility of a sprite and costumes/backdrop changes.
 * Sounds: Control how and when a sound appears.
-* Event: The blocks in this section are the ones we use to start a script, that's why they cannot be connected to the bottom or another block, except for the **broacast** ones, which allow a script to send a signal to another (or others), to possibly start or end an action.
+* Event: The blocks in this section are the ones we use to start a script, that's why they cannot be connected to the bottom or another block, except for the **broadcast** ones, which allow a script to send a signal to another (or others), to possibly start or end an action.
 * Control: Lists the options to control actions by adding loops, conditionals, wait time, etc.
 * Sensing: Cool control feature to wait for specific signals to proceed with whatever action we've instructed our sprite.
 * Operators: Perfom basic math operations, as well as provide ranges to pick a random value, add logical operations that result in booleans, etc  
