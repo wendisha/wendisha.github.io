@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why learning SQL is so relevant to Developers"
-date:       2019-11-11 14:29:42 +0000
+date:       2019-11-11 09:29:43 -0500
 permalink:  why_learning_sql_is_so_relevant_to_developers
 ---
 
@@ -11,8 +11,11 @@ A few weeks ago, whenever I heard the word SQL, my hands started to sweat. I kne
 Credits: csc.barnard.edu
 
 What is SQL? In simple words, it is the language used to interact with [relational databases](https://en.wikipedia.org/wiki/Relational_database). It stands for Structured Query Language and it has been around for over 40 years. This interaction is possible through a Database Management System, a software that handles the storage, retrieval, and updating of data in a computer system.
+
 As our applications and/or companies grow, more and more data needs to be managed, and this applies to basically any scenario. Imagine a company growing in size, that is keeping track of it’s employees information in a spreadsheet, storing personal data in one table, clock-in/clock-out times in another table, vacation schedules in a different table, etc. A simple task like getting the emergency contact information of the employee who took a break at 3:15pm today could take double, triple, *you name it*, the time a SQL query would take to retrieve this data from a relational database. This spreadsheet is an example of a [flat database](https://en.wikipedia.org/wiki/Flat-file_database).
+
 SQL is the most popular database query language, and since we have covered why storing large sets of data in a relational database is convenient, it’s clear to see why adding it to one’s skill set is important. It’s learning curve is also slight once you find the right resources.
+
 Another important reason to consider learning SQL is the revenue; not only is this skill in high demand, it also pays well. According to Glassdoor, the average pay for a SQL Developer is approximately $84k.
 
 ![SQL Developer Salaries](https://miro.medium.com/max/1566/1*E16heq1L3j54co-FxTE13Q.jpeg)
