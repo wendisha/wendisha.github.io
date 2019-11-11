@@ -21,7 +21,7 @@ Another important reason to consider learning SQL is the revenue; not only is th
 ![SQL Developer Salaries](https://miro.medium.com/max/1566/1*E16heq1L3j54co-FxTE13Q.jpeg)
 Credits: glassdoor.com
 
-In[Stack Overflow’s 2019 Developer Survey](https://insights.stackoverflow.com/survey/2019) results, SQL ranks as the third most popular technology among professional Developers, and it’s been in the top 5 since this breakdown started back in 2015.
+In [Stack Overflow’s 2019 Developer Survey](https://insights.stackoverflow.com/survey/2019) results, SQL ranks as the third most popular technology among professional Developers, and it’s been in the top 5 since this breakdown started back in 2015.
 
 ![Stack Overflow's 2019 Developer Survey](https://miro.medium.com/max/1171/1*pwHnqzf9ja1bkA-VMBDTJw.jpeg)
 Credits: Stack Overflow
